@@ -4,7 +4,7 @@
 
 ---
 
-### 📝 [詳細開發紀錄與除錯歷程 (HackMD)](https://hackmd.io/@862G4-mASVKG4SlsMaHffg/Sy1HY1bLel)
+### 📝 [詳細開發任務紀錄與除錯歷程 (HackMD)](https://hackmd.io/@862G4-mASVKG4SlsMaHffg/Sy1HY1bLel)
 
 點擊上方連結，可以閱讀本次任務從環境建置、指令除錯，到與 AI 協作完成兩輪 BDD 開發循環的完整歷程分享。
 

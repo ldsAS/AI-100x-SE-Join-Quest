@@ -8,7 +8,7 @@
 
 點擊上方連結，可以閱讀本次任務從環境建置、指令除錯，到與 AI 協作完成兩輪 BDD 開發循環的完整歷程分享。
 
-若要安裝Gradle可參考此流程(Windows環境)：https://hackmd.io/@862G4-mASVKG4SlsMaHffg/B1NwzX-Ixg
+若要安裝Gradle可參考此流程(Windows環境)：[使用 Chocolatey 安裝 Gradle (HackMD)](https://hackmd.io/@862G4-mASVKG4SlsMaHffg/B1NwzX-Ixg)
 
 ---
 

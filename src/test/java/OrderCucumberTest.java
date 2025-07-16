@@ -7,7 +7,7 @@ import static io.cucumber.junit.platform.engine.Constants.GLUE_PROPERTY_NAME;
 
 @Suite
 @IncludeEngines("cucumber")
-@SelectClasspathResource("features/order.feature")
-@ConfigurationParameter(key = GLUE_PROPERTY_NAME, value = "stepdefinitions")
+@SelectClasspathResource("features")
+@ConfigurationParameter(key = GLUE_PROPERTY_NAME, value = "stepdefs")
 public class OrderCucumberTest {
 }
